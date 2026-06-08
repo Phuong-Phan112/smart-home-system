@@ -36,8 +36,8 @@ int main() {
     printf("Sensor läuft...\n");
 
     while (1) {
-        int temp = 18 + rand() % 12;  //Sensordaten von Tempearatur erzeugen, erzeugt Wert von 18 bis 29    
-        int light = rand() % 2; //Sensordaten von Licht erzeugen, 0 = aua, 1= an
+        int temp = -10 + rand() % 40;  //Sensordaten von Tempearatur erzeugen, erzeugt Wert von -10 bis 39
+        int light = rand() % 2; //Sensordaten von Licht erzeugen, 0 = aus, 1= an
 
         //Zahlen in Text umwandeln
         char temp_msg[10];

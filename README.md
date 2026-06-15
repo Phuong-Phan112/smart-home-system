@@ -30,4 +30,4 @@ controller.py
 controller2.py
 ## REST API
 Eine Schnittstelle, über die man Daten über eine URL abfragen kann
-
+Testen im Browser: http://localhost:5000/status 

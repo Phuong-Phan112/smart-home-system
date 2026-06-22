@@ -31,3 +31,6 @@ controller2.py
 ## REST API
 Eine Schnittstelle, über die man Daten über eine URL abfragen kann
 Testen im Browser: http://localhost:5000/status 
+
+## Dashboard aufbauen
+Jetzt hinfügen die Dashboard-Route -> Dashboard wird gezeigt

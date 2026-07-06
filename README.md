@@ -33,4 +33,4 @@ Eine Schnittstelle, über die man Daten über eine URL abfragen kann
 Testen im Browser: http://localhost:5000/status 
 
 ## Dashboard aufbauen
-Jetzt hinfügen die Dashboard-Route -> Dashboard wird gezeigt
+Jetzt hinfügen die Dashboard-Route -> Dashboard wird gezeigt -> http://localhost:5000/

@@ -24,7 +24,7 @@ Empfängt MQTT Daten -> verarbeitet sie -> entscheidet Heizung/Licht -> zeigt Er
 
 controller.py
 ## Daten strukturieren und vorbereiten für Dashboard
-- Ziel: Daten werden gespeichert; aktueller Systemzustand bleibt erhalten; Vorbereitung für Web‑Dashboard;sauberer Output
+- Ziel: Daten werden gespeichert, aktueller Systemzustand bleibt erhalten und Vorbereitung für Web‑Dashboard
 - Idee: Statt nur zu gucken, speichern jetzt alles in einer Datenstruktur
 
 controller2.py
@@ -34,3 +34,7 @@ Testen im Browser: http://localhost:5000/status
 
 ## Dashboard aufbauen
 Jetzt hinfügen die Dashboard-Route -> Dashboard wird gezeigt -> http://localhost:5000/
+controller3.py
+
+Dashboard schöner machen mit Temperatur Diagramm und Farbe hinfügen.
+controller4.py
